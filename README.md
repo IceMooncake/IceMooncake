@@ -2,6 +2,8 @@
 
 I'm a Frontend Developer passionate about **Vue Ecosystem**, **Performance Optimization**, and **Visualization**.
 
+Contact With Me - shiguanghu660@163.com
+
 - 🔭 **Working on**: High-performance data visualization using Canvas/Leafer.js and modern Vue 3 applications.
 - 👯 **Contributing**: Active contributor to [Ant Design](https://github.com/ant-design/ant-design) and [VueUse](https://github.com/vueuse/vueuse).
 - 🛠️ **Tech Stack**: Vue 3, TypeScript, Vite, Node.js (Prisma/Zod), UnoCSS.
