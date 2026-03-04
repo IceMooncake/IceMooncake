@@ -7,4 +7,4 @@ I'm a Frontend Developer passionate about **Vue Ecosystem**, **Performance Optim
 - 🛠️ **Tech Stack**: Vue 3, TypeScript, Vite, Node.js (Prisma/Zod), UnoCSS.
 - 🚀 **Focus**: I specialize in refactoring legacy systems (jQuery -> Vue) and building complex, high-performance UI components.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IceMooncake&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
