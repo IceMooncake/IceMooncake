@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Frontend Developer. Love sandbox games, music(especially the piano!), and natural views.
+I'm a Frontend Developer. Love sandbox games, music(especially the piano🎹), and natural views.
 
 Contact With Me - shiguanghu660@163.com
 
